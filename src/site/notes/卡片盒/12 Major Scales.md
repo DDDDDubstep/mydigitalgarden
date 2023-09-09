@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//12-major-scales/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"//12-major-scales/"}
 ---
 
 
